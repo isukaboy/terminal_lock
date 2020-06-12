@@ -6,3 +6,4 @@ ls
 cd terminal lock
 ls
 nano terminal lock.py
+ok
