@@ -1,2 +1,4 @@
 # terminal_lock
-install 
+pkg install git
+git clone
+pkg install nano
