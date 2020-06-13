@@ -1,5 +1,5 @@
 # terminal_lock
-pkg install git
+pkg install git                                                                                                                                                                                                                                                                      
 git clone https://github.com/isukaboy/terminal_lock.git 
 pkg install nano
 ls
